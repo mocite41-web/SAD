@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+student_model.pkl
+student_data.csv
+.DS_Store
